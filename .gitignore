@@ -119,3 +119,8 @@
 /test/rb/Makefile
 /test/rb/Makefile.in
 /ylwrap
+/lib/hs/Makefile
+/lib/hs/Makefile.in
+/lib/rb/ext/mkmf.log
+/lib/rb/ext/thrift_native.so
+
